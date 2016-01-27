@@ -1,6 +1,6 @@
 #-*-coding:utf-8 -*-
-import sys
-sys.path.append('/cygdrive/c/Python27/Lib/site-packages')
+#import sys
+#sys.path.append('/cygdrive/c/Python27/Lib/site-packages')
 
 import flask
 from flask import render_template
